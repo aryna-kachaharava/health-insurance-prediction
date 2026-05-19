@@ -24,7 +24,7 @@ The project includes:
 ---
 
 # Dataset
-
+It is taken from Kaggle open source.
 The dataset contains information about medical insurance beneficiaries and their corresponding insurance charges.
 
 ### Features
